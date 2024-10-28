@@ -1,0 +1,60 @@
+
+header {
+    background-color:black;
+    color:orangered;
+    text-align: center;
+}
+
+header h1 {
+    display: inline-block;
+    margin: 0;
+}
+
+header img {
+    vertical-align: middle;
+    width: 40px;
+    margin-right: 10px;
+}
+
+
+
+ h2 {
+    background-color: orangered;
+    text-align: center;
+    color: black;
+    margin-bottom: 20px;
+}
+
+
+
+
+label {
+    margin-bottom: 8px;
+    color:black;
+}
+
+input, select, button {
+    padding: 10px;
+    margin-bottom: 15px;
+    border: 1px solid black;
+    
+}
+
+input:focus, select:focus {
+    border-color: orangered;
+    outline: none;
+}
+
+button {
+    background-color: orangered;
+    color:white;
+    border: none;
+    cursor: pointer;
+    font-weight: bold;
+    
+}
+
+button:hover {
+    background-color:orangered;
+}
+
